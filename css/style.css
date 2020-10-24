@@ -1,0 +1,54 @@
+.img {
+    vertical-align: middle;
+    margin-left: 80px;
+    float: left;
+}
+
+li {
+    display: flex;
+    float: right;
+}
+
+.join {
+    color: #707070;
+    margin-top: 50px;
+    margin-right: 245px;
+}
+
+.bar {
+    color: #707070;
+    font-family: Archy EDT, thin;
+    margin-top: 50px;
+    margin-right: 53px;
+}
+
+.name-wrapper {
+    font-family: MyriadPro-Regular;
+    width: 500px;
+    height: 40px;
+}
+
+.mssg-wrapper {
+    width: 500px;
+}
+
+.area-wrapper {
+    width: 500px;
+    height: 70px;
+}
+
+.button {
+    margin-top: 40px;
+    background-color: #2E2E2E;
+    width: 100px;
+    height: 35px;
+    color: wheat;
+}
+
+.form-wrapper {
+    padding-top: 50px;
+}
+
+::placeholder {
+    font-size: 17px;
+}
